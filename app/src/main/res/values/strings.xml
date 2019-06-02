@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">班级通讯录</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="QueryActivity_name">QueryActivity</string>
+    <string name="hint">请填写完整信息，确认无误后点击修改</string>
+    <string name="guide">请填写要删除对象的姓名、密码与手机号</string>
+    <string name="warning">为确定是本人操作，请输入姓名和密码</string>
+    <string name="说明">条件搜索可按任意单项条件进行搜索，单项条件需填写完整\n无输入条件下进行条件搜索默认全部显示</string>
+    <string name="密码说明">输入密码以确保是本人操作</string>
+</resources>
